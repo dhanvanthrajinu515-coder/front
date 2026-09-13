@@ -1,5 +1,5 @@
 // This is proxied to your Render backend via netlify.toml — see that file.
-const API_BASE_URL = '';
+const API_BASE_URL = 'https://back-l4j3.onrender.com';
 
 const form = document.getElementById('submission-form');
 const statusEl = document.getElementById('status');
