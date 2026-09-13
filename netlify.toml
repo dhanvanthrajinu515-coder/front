@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/submit"
+  to = "https://your-backend.onrender.com/api/submit"
+  status = 200
+  force = true
