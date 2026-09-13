@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/api/submit"
-  to = "https://your-backend.onrender.com/api/submit"
+  to = "https://back-l4j3.onrender.com"
   status = 200
   force = true
